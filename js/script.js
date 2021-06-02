@@ -47,3 +47,5 @@ itemMenu.forEach((item) => {
         menuMobile.classList.replace("fa-times", "fa-bars");
     });
 });
+
+checkbox.click()
